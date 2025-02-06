@@ -39,17 +39,17 @@
 
   "overlay": false,
   "overlay_path": "particles/cheats_check.vpcf",
-  "show_html_message_suspect": true,                            //// Делать ли HTML окно (true, false)
+  "show_html_message_suspect": true,                            // Делать ли HTML окно (true, false)
   
-  "enable_discord_logging": false,                              //// Отправлять в дс сервер инфу о проверке (true, false)
-  "webhook_mode": 2,                                            //// 1 - 3 сообщения, 2 - все в 1
-  "discord_webhook_url": "url",                                 //// URL вебхука (посмотрите гайд на ютубе)
+  "enable_discord_logging": false,                              // Отправлять в дс сервер инфу о проверке (true, false)
+  "webhook_mode": 2,                                            // 1 - 3 сообщения, 2 - все в 1
+  "discord_webhook_url": "url",                                 // URL вебхука (посмотрите гайд на ютубе)
   "discord_color_check_started": "FFA500",
   "discord_color_contact_provided": "00FF00",
   "discord_color_check_completed": "00FF00",
   "discord_footer_icon_url": "https://i.imgur.com/2NbqQu7.png",
 
-  "enable_database_logging": false,                            //// Заносить проверки в датабазу (true, false)
+  "enable_database_logging": false,                            // Заносить проверки в датабазу (true, false)
   "server_id": 1,
   "database_host": "localhost",
   "database_user": "root",
@@ -58,7 +58,7 @@
   "database_port": 3306,
   "table_name": "checkcheats_stats",
   
-  "ConfigVersion": 1
+  "ConfigVersion": 1                                          //  Сделано SultanOnline и ABKAM
 }
 ```
 
