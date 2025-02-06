@@ -49,7 +49,7 @@
   "discord_color_check_completed": "00FF00",
   "discord_footer_icon_url": "https://i.imgur.com/2NbqQu7.png",
 
-  "enable_database_logging": false,                            // Заносить проверки в датабазу (true, false)
+  "enable_database_logging": false,                             // Заносить проверки в датабазу (true, false)
   "server_id": 1,
   "database_host": "localhost",
   "database_user": "root",
@@ -58,7 +58,7 @@
   "database_port": 3306,
   "table_name": "checkcheats_stats",
   
-  "ConfigVersion": 1                                          //  Сделано SultanOnline и ABKAM
+  "ConfigVersion": 1                                            //  Сделано SultanOnline и ABKAM
 }
 ```
 
