@@ -27,15 +27,15 @@
 # КФГ
 ```json
 {
-  "ban_reason": "Отказ от проверки",                            //// Причина
-  "ban_time": 0,                                                //// Время бана (0 - навсегда, в секундах)
-  "check_duration": 120,                                        //// Время скидывания дс
+  "ban_reason": "Отказ от проверки",                            // Причина
+  "ban_time": 0,                                                // Время бана (0 - навсегда, в секундах)
+  "check_duration": 120,                                        // Время скидывания дс
   "flag": "z",
   "check_sound_path": "sounds/buttons/button8.vsnd_c",
 
-  "ban_on_disconnect_after_contact": true,                      //// Банить после выхода (true, false)
-  "move_to_spectators_on_check": true,                          //// Перебросить за наблюдателей (true, false)
-  "block_team_change_during_check": true,                       //// Блокировать переходить за другую команду (true, false)
+  "ban_on_disconnect_after_contact": true,                      // Банить после выхода (true, false)
+  "move_to_spectators_on_check": true,                          // Перебросить за наблюдателей (true, false)
+  "block_team_change_during_check": true,                       // Блокировать переходить за другую команду (true, false)
 
   "overlay": false,
   "overlay_path": "particles/cheats_check.vpcf",
